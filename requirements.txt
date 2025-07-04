@@ -1,0 +1,1 @@
+pip install telethon pytesseract pillow python-qt5 MetaTrader5 opencv-python
